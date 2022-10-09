@@ -45,6 +45,10 @@ Frugal Streaming uses only one unit of memory per group to compute a quantile fo
 
 - [Find the nth percentile of the data stream](https://research.neustar.biz/2013/09/16/sketch-of-the-day-frugal-streaming/)
 
+- https://agkn.wordpress.com/2013/09/16/sketch-of-the-day-frugal-streaming/
+
+- https://gist.github.com/jroyalty/5401935f60a37adfa1799ca5194e4d76
+
 ### Geohash / S2 Geometry
 Geohash can used by 1) dating apps to find romantic matches within a particular cell, and to create chat apps.2) Find nearby locations, and identify places of interest, restaurants, shops and accommodation establishments in an area. 3) Geohashers go on global expeditions to meet people and explore new places.
 
