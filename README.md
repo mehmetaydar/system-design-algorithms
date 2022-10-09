@@ -36,6 +36,10 @@ A Bloom filter is a data structure designed to tell you, rapidly and memory-effi
 
 - [Build a Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
 
+- https://www.google.com/amp/s/www.geeksforgeeks.org/bloom-filter-in-java-with-examples/amp/
+
+- https://www.baeldung.com/guava-bloom-filter
+
 ### Frugal Streaming
 Frugal Streaming uses only one unit of memory per group to compute a quantile for each group
 
