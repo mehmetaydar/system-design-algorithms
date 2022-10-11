@@ -68,7 +68,9 @@ A mechanism to control the amount and the rate of the traffic sent to the networ
 
 ### Lossy Counting
 The lossy count algorithm is an algorithm to identify elements in a data stream whose frequency count exceed a user-given threshold.
+Heavy Hitters.
 
+- https://micvog.com/2015/07/18/frequency-counting-algorithms-over-data-streams/
 - [Fast and Reliable Ranking in Datastore](https://cloud.google.com/datastore/docs/articles/fast-and-reliable-ranking-in-datastore)
 - [Frequency Counts over Data Streams](https://www.cse.ust.hk/vldb2002/VLDB2002-proceedings/slides/S10P03slides.pdf)
 - [How we built rate limiting capable of scaling to millions of domains](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
