@@ -78,7 +78,9 @@ Heavy Hitters.
 
 ### Operational transformation
 Operational transformation (OT) is a technology for supporting a range of collaboration functionalities in advanced collaborative software systems.
+Algorithm behind Google Docs.
 
+- https://medium.com/coinmonks/operational-transformations-as-an-algorithm-for-automatic-conflict-resolution-3bf8920ea447
 - [How Google docs handle editing collisions](https://stackoverflow.com/a/36366174)
 - [Collaborative editing](https://www3.ntu.edu.sg/home/czsun/projects/otfaq/#_Toc321146127)
 
