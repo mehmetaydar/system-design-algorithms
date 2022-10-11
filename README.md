@@ -57,6 +57,7 @@ Geohash can used by 1) dating apps to find romantic matches within a particular 
 ### HyperLogLog
 HyperLogLog is an algorithm for the count-distinct problem, approximating the number of distinct elements in a multiset.
 
+- https://en.m.wikipedia.org/wiki/HyperLogLog
 - [Redis HyperLogLog Explained](https://www.youtube.com/watch?v=MunL8nnwscQ)
 
 ### Leaky bucket / Token bucket
