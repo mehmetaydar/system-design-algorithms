@@ -104,7 +104,8 @@ Reverse Index: a reverse index is an index of keywords which stores records of d
 ### Rsync algorithm
 The rsync algorithm is a technique for reducing the cost of a file transfer by avoiding the transfer of blocks that are already at the destination.
 
-- [Streaming File Synchronization](https://dropbox.tech/infrastructure/streaming-file-synchronization)
+- https://www.google.com/amp/s/www.geeksforgeeks.org/rsync-command-in-linux-with-examples/amp/
+- [Dropbox Streaming File Synchronization](https://dropbox.tech/infrastructure/streaming-file-synchronization)
 
 ### Trie algorithm
 Trie is an efficient information reTrieval data structure. Using Trie, search complexities can be brought to optimal limit (key length)
