@@ -87,6 +87,7 @@ Algorithm behind Google Docs.
 ### Quadtree / Rtree
 - [Spatial Indexing with Quadtrees](https://medium.com/@waleoyediran/spatial-indexing-with-quadtrees-b998ae49336)
 - Find nearby interest points
+- https://algs4.cs.princeton.edu/92search/QuadTree.java.html
 
 ### Ray casting
 Ray casting is the most basic of many computer graphics rendering algorithms that use the geometric algorithm of ray tracing. Given a point with longitude and latitude, return the Country of the point.
