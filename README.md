@@ -99,6 +99,7 @@ Reverse Index: a reverse index is an index of keywords which stores records of d
 
 - [How search engines work: Crawling, Indexing, And Ranking](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
 - [Building a complete Tweet index](https://blog.twitter.com/engineering/en_us/a/2014/building-a-complete-tweet-index.html)
+- https://www.google.com/amp/s/www.geeksforgeeks.org/inverted-index/amp/
 
 ### Rsync algorithm
 The rsync algorithm is a technique for reducing the cost of a file transfer by avoiding the transfer of blocks that are already at the destination.
